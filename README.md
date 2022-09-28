@@ -1,8 +1,7 @@
 ### Olá,eu sou Guilherme👋
 # Desenvolvedor Front-End
 # Estou estudando:
-- HTML
-- CSS
+- JAVASCRIPT
 -  GITHUB
 # Contatos:
 - Email: gscardazi@hotmail.com
