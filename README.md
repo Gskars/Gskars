@@ -1,7 +1,11 @@
-### Olá, sou Guilherme👋
+### Olá,eu sou Guilherme👋
 # Desenvolvedor Front-End
+# Estou estudando:
+- HTML
+- CSS
+-  GIHUB
+# Contatos:
+- Email: gscardazi@hotmail.com
+- Linkedin: https://www.linkedin.com/in/guilherme-scardazi-67875a1b8/
 
-- HTML5,CSS3 and JAVASCRIPT.
-- 📫 How to reach me:     Email: gscardazi@hotmail.com
-Linkedin: https://www.linkedin.com/in/guilherme-scardazi-67875a1b8/
 
