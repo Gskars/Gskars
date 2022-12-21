@@ -1,6 +1,6 @@
 ### Olá, eu sou Guilherme Scardazi👋
 
-- No presente momento estou estudando Front-End e Lógica de Programação
+- No presente momento estou estudando Front-End, Lógica de Programação e Excel
 - Habilidades em HTML, CSS, JAVASCRIPT
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermescardazi)
