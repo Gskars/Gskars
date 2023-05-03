@@ -1,7 +1,7 @@
 ### Olá, eu sou Guilherme Scardazi👋
 
-- No presente momento estou estudando Lógica de Programação e Python
-- Habilidades em HTML5, CSS3, JAVASCRIPT
+- No presente estou estudando Git e Github e Python via plataforma Alura
+- - Habilidades em HTML5, CSS3, JAVASCRIPT
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermescardazi)
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://www.linkedin.com/in/guilhermescardazi)
