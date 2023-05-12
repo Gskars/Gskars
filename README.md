@@ -1,6 +1,7 @@
-### Olá, eu sou Guilherme Scardazi👋
+### Olá, Eu sou Guilherme Scardazi👋
 
-- No presente estou estudando Git e Github e Python via plataforma Alura
+- No presente estou aprimmorando meus conhecimentos em SQL e Python via plataforma Alura e vídeos no youtube
+- Pratico os conhecimentos adiquiridos durante as aulas via chat GPT e bing chat, gerando exercícios e desafios
 -  Habilidades em : HTML5; CSS3; JAVASCRIPT
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermescardazi)
