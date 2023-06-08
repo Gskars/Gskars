@@ -1,6 +1,6 @@
 ### Olá, Eu sou Guilherme Scardazi👋
 
-- No presente estou aprimorando meus conhecimentos em SQL e Python via plataforma Alura e vídeos no youtube.
+- No presente estou aprimorando meus conhecimentos em  Python via plataforma Alura e vídeos no youtube.
 - Pratico os conhecimentos adiquiridos durante as aulas via chat GPT e bing chat, gerando exercícios e desafios para consolidar meus conhecimentos.
 -  Conhecimentos em : HTML5; CSS3; JAVASCRIPT
 
