@@ -7,7 +7,7 @@
 <p>
   Eu sou Guilherme, um admirador e apaixonado pelo universo de ciência de dados 👩🏻‍💻🤖.
 
-  - ⏳ Atualmente, estou cursando o segundo período do bacharelado em Ciência da Computação na universidade Unip, com previsão de término  no segundo semestre de 2028.
+  - ⏳ Atualmente, estou cursando o segundo período do bacharelado em Sistemas  de informação na universidade Estácio, com previsão de término  no segundo semestre de 2028.
   - 🔍 Estou em transição de carreira e procurando um estágio em dados para aprimorar minhas habilidades e conhecimentos em ciência e análise de dados.
 </p>
 
@@ -16,7 +16,7 @@
   <summary> Sobre mim :</summary>
 
   - 📍 Tenho 24 anos e atualmente resido  em Campinas, SP. Meu nível atual de inglês é considerado B1, certificado pela "EF Set" que traz uma prova alinhada com o quadro Europeu de referência.
-  - 📌 Obtenho habilidades em excel, python e power BI, com objetivo de construir   uma base sólida para trabalhar com dados, desde a coleta e armazenamento até a análise e visualização.
+  - 📌 Construindo habilidades em excel, python e power BI, com objetivo de construir  uma base sólida para trabalhar com dados, desde a coleta e armazenamento até a análise e visualização.
   - 🤖 Paralelamente, estou explorando o campo da Inteligência Artificial, focando em técnicas de “engenharia de prompt” para a otimização de geração de insights. O livro "Inteligência Artificial e Chat GPT" de Fabrício Carraro tem sido meu guia fundamental na minha jornada.
  - ☘️ Gosto de sempre estar atento as informações, sempre lendo e buscando informações que contribuam para meu crescimento profissional e pessoal.
 </details>
