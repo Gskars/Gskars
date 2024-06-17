@@ -27,7 +27,7 @@
 ![Gskars GitHub stats](https://github-readme-stats.vercel.app/api?username=Gskars&show_icons=true&theme=merko)
 
 ## Projetos em destaque:
-- [Python e IA - Chatbot de viagem](url do projeto no git)
+- [Python e IA - Edition one -> Chatbot de viagem](url do projeto)
 
 ## 🚀 Habilidades técnicas:
 <div style="flex-basis: 48%;">
