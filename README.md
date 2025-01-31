@@ -17,7 +17,7 @@
 <details>
   <summary><h2><strong>📌 Personal Details(Click Here):</strong></h2></summary>
 
-  - 🌍 **Location and Age:** Campinas, SP | 24 years old
+  - 🌍 **Location and Age:** Campinas, SP -Brazil | 24 years old
   - 🎯 **Goal:** Build expertise across the entire data lifecycle (collection, processing, analysis, and visualization)
   - 📚 **Current Studies:** 
     - Prompt Engineering with ["Artificial Intelligence and ChatGPT"](https://www.amazon.com.br/Intelig%C3%AAncia-Artificial-ChatGPT-generativa-Engenharia-ebook/dp/B0CPZB7BDR/ref=sr_1_25?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2XR3BZPEW9ZBR&dib=eyJ2IjoiMSJ9.Ryj5COneHXROj8nYtFVUMk1SUyi-JcgK1yH748ZzDZXDcke_zfCqgB0RbgHKwFuEYj3lCK15Sp1xXgVj6S36A_jhHtaqsvzK18KQA1fX1VVi7mWiOsTcwREnCtr4IjUG0QmTwU86wheXJZakRZlAtIGz0lmQzJFYvHc6t2MCMX7xdzxGQ2LAfIJUkiShAkcAe0qRfqI1t9lSRAMpiSNK753EC5S0P6_MH9ZrJV3eIB-c4hbwMpI8iSqXZ3cT6Xn0pqsJdwFpTttnNi8IEoQ5atKlDpzhTubFCIBFFQYFe8yWwtwo1yjWouZ7yrv6xTvTm3IX32ENFk8yDh7O4i91FInbMISz8y7gN37q5Qkj6MT9UNsgy8hWGYsbq5WrsOX1cW888rqyBq6TWhPlYbLgwpmBobj0R3-MVGmtLQn-eRlY9TIpVeBCXf6xIFyNRMrG.T-KnwmdizYmYY9ECJoz3686rMxHG_t9DCgXJtwy3HRc&dib_tag=se&keywords=Chat+gpt&qid=1738353891&sprefix=chat+gpt%2Caps%2C324&sr=8-25) by Fabrício Carraro
