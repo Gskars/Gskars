@@ -1,48 +1,81 @@
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=2EBD85&center=true&vCenter=true&width=500&lines=Olá,+Mundo!+🌎;Data+Scientist+em+formação+🧑‍💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=2EBD85&center=true&vCenter=true&width=500&lines=Hello,+World!+🌎;Aspiring+Data+Scientist+🚀" alt="Typing SVG" />
 </div>
 
-<p>
-  Eu sou Guilherme, um admirador e apaixonado pelo universo de ciência de dados 👩🏻‍💻🤖.
+---
 
-  - ⏳ Atualmente, estou cursando tecnólogo  em Ciência de Dados no Centro Universitário internacional UNINTER , com previsão de formação em Dezembro de 2026.
-  - 🔍Estou sempre em busca de me aprimorar com novas tecnologias e tendências de mercado, visando desenvolver meu pensamento analítico e resolver desafios inovadores.
+### 👨💻 About Me:
+
+<p>
+  I'm a Data Science enthusiast passionate about transforming data into valuable insights. Currently:
+  
+  🎓 Pursuing a Technology Degree in Data Science at UNINTER (Expected graduation: Dec 2026)<br>
+  🔍 Continuously exploring emerging technologies<br>
+  💡 Focused on developing analytical thinking to solve complex challenges
 </p>
 
-<!-- Dropdown -->
 <details>
-  <summary> Sobre mim :</summary>
+  <summary><strong>📌 Personal Details(Click Here):</strong></summary>
 
-  - 📍 Tenho 24 anos e atualmente resido  em Campinas, SP. Meu nível atual de inglês é considerado B1, certificado pela "EF Set" que traz uma prova alinhada com o quadro Europeu de referência.
-  - 📌 Construindo habilidades em excel, python, power BI e  Power Automate com objetivo de construir  uma base sólida para trabalhar com dados, desde a coleta e armazenamento até a análise e visualização.
-  - 🤖 Paralelamente, estou explorando o campo da Inteligência Artificial, focando em técnicas de “engenharia de prompt” para a otimização de geração de insights. O livro "Inteligência Artificial e Chat GPT" de Fabrício Carraro tem sido meu guia fundamental na minha jornada.
- - ☘️ Gosto de sempre estar atento as informações, sempre lendo e buscando informações que contribuam para meu crescimento profissional e pessoal.
+  - 🌍 **Location:** Campinas, SP | 24 years old
+  - 🎯 **Goal:** Build expertise across the entire data lifecycle (collection, processing, analysis, and visualization)
+  - 📚 **Current Studies:** 
+    - Prompt Engineering with ["Artificial Intelligence and ChatGPT"](https://www.example.com/book) by Fabrício Carraro
+    - Enhancing skills in Python, Power BI, and Machine Learning
+  - 🌱 **Hobbies:** Technical reading, exploring new technologies, and personal project development
+  - 🧠 **Soft Skills:** Analytical curiosity, continuous learning, and resilience for complex challenges
 </details>
 
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermescardazi/?originalSubdomain=br)
+### 🛠 Tech Stack:
 
-![Gskars GitHub stats](https://github-readme-stats.vercel.app/api?username=Gskars&show_icons=true&theme=merko)
+**Languages & Tools:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft-powerautomate&logoColor=white)
 
-## Projetos em destaque:
-- [Python e IA - Edition one -> Chatbot de viagem](url do projeto)
+**Development Tools:**  
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
-## 🚀 Habilidades técnicas:
-<div style="flex-basis: 48%;">
-<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="Excel" height="30" width="150" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-  <img align="center" alt="Power Bi" height="30" width="150" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-  </div>
-  
- 
-  <div style="flex-basis: 48%;">
-    <h3> ⚒️ Ferramentas:</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Colab" height="30" width="100" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
-  </div>
- 
-  <div style="flex-basis: 48%;">
-    <h3>Biblioteca:</h3>
-    <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </div>
+**Libraries:**  
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+---
+
+### 🌟 Soft Skills:
+
+- 🤝 Business Negotiation
+- 🗣️ Business Communication
+- 👥 Team Collaboration
+
+---
+
+### 📈 GitHub Statistics:
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gskars&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+</div>
+
+---
+
+### 🚀 Featured Projects:
+
+[![Travel Chatbot](https://img.shields.io/badge/🔗-Travel_Chatbot_(Python_+_AI)-2EBD85?style=for-the-plastic)](https://github.com/youruser/travel-chatbot)
+> Tourist destination recommendation system using natural language processing
+
+*(More projects coming soon!)*
+
+---
+
+### 🌐 Connect with Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermescardazi/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+
+---
+
+**📌 Did You Know?** "Data is the new oil, but it's only valuable when refined!" - Clive Humby
