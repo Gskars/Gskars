@@ -1,7 +1,6 @@
 
-<div id="user-content-toc">
-  <ul align="center">
-  <summary><h1 style="display: inline-block"> Fala, rede!🌎</h1></summary>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=2EBD85&center=true&vCenter=true&width=500&lines=Olá,+Mundo!+🌎;Data+Scientist+em+formação+🧑‍💻" alt="Typing SVG" />
 </div>
 
 <p>
