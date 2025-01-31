@@ -4,7 +4,7 @@
 
 ---
 
-### 👨💻 About Me:
+### <h2>👨💻 About Me:</h2>
 
 <p>
   I'm a Data Science enthusiast passionate about transforming data into valuable insights. Currently:
