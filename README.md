@@ -64,7 +64,7 @@
 
 ### <h2>🚀 Featured Projects:</h2>
 
-[![Travel Chatbot](https://img.shields.io/badge/🔗-Travel_Chatbot_(Python_+_AI)-2EBD85?style=for-the-plastic)](https://github.com/youruser/travel-chatbot)
+[![Travel Chatbot](https://img.shields.io/badge/🔗-Travel_Chatbot_(Python_+_AI)-2EBD85?style=for-the-plastic)](https://github.com/Gskars/Edition-One)
 > Tourist destination recommendation system using natural language processing
 
 *(More projects coming soon!)*
@@ -74,7 +74,7 @@
 ### <h2>🌐 Connect with Me:</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermescardazi/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermescardazi.dados@gmail.com)
 
 ---
 
