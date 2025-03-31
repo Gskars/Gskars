@@ -9,7 +9,7 @@
 <p>
   I'm a Data Science enthusiast passionate about transforming data into valuable insights. Currently:
   
-  🎓 Pursuing a Technology Degree in Data Science at UNINTER (Expected graduation: Dec 2026)<br>
+  🎓 Pursuing a Technology Degree in Data Science at UNINTER (Expected graduation: July 2027)<br>
   🔍 Continuously exploring emerging technologies<br>
   💡 Focused on developing analytical thinking to solve complex challenges
 </p>
